@@ -30,8 +30,6 @@ The Marvel Cinematic Universe has been a source of inspiration for this project,
 ## Contact
 If you have any questions or would like to know more about the Marvel Cinematic Universe website, feel free to reach out to me:
 
-- Email: [virendrakumar582002@gmail.com](virendrakumar582002@gmail.com)
-- LinkedIn: [Virendra-kumar25](https://www.linkedin.com/in/virendra-kumar25)
-- GitHub: [Virendra_94](https://github.com/Virendra-94)
+- Email: khushhalsingh31216@gmail.com
 
 Thank you for visiting my repository and exploring the Marvel Cinematic Universe website!
